@@ -13,16 +13,13 @@
       "rating": 4.9
     },
     {
-      "id": "2",
       "name": "MacBook Air M3",
-      "description": "Ultra-léger et performant pour le travail et les loisirs.",
-      "price": 1299,
-      "image": "https://www.notebookcheck.biz/fileadmin/Notebooks/Apple/MacBook_Air_13_M3_10C_GPU/IMG_2758.JPG",
+      "price": 1,
       "category": "Électronique",
+      "description": "Ultra-léger et performant pour le travail et les loisirs.",
       "stock": 8,
-      "isNew": true,
-      "discount": 0,
-      "rating": 4.8
+      "image": "https://www.notebookcheck.biz/fileadmin/Notebooks/Apple/MacBook_Air_13_M3_10C_GPU/IMG_2758.JPG",
+      "id": "2"
     },
     {
       "id": "3",
@@ -49,18 +46,6 @@
       "rating": 4.6
     },
     {
-      "id": "6",
-      "name": "Casquette Sport",
-      "description": "Casquette respirante idéale pour vos activités sportives.",
-      "price": 24.99,
-      "image": "https://photo.i-run.com/nike-casquette-aw84-m-accessoires-90282-1-fz.jpg",
-      "category": "Vêtements",
-      "stock": 14,
-      "isNew": false,
-      "discount": 0,
-      "rating": 4.2
-    },
-    {
       "name": "Pc Gamer",
       "price": 2000.99,
       "category": "Informatique",
@@ -68,6 +53,15 @@
       "stock": 14,
       "image": "https://www.pcspecialist.fr/images/landing/pcs/gaming-pc/gaming_pc_headline_pcs.jpg",
       "id": "e5fc"
+    },
+    {
+      "id": "b3bc",
+      "name": "Nintendo switch 2",
+      "price": 500,
+      "category": "Jeux video",
+      "description": "Plus gros scam de l'histoire",
+      "stock": 3,
+      "image": "https://alertetgo.com/wp-content/uploads/2025/03/Console-Nintendo-Switch-2.webp"
     }
   ]
 }
