@@ -1,0 +1,30 @@
+.header {
+  background: #111827;
+  color: white;
+  padding: 16px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: 800;
+  color: white;
+  text-decoration: none;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.link {
+  color: #e5e7eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.link:hover {
+  color: #10b981;
+}

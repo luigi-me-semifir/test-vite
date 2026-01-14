@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 15 Pro",
+      "description": "Le smartphone le plus puissant d'Apple avec puce A17 Pro.",
+      "price": 1229,
+      "image": "https://img-api.mac4ever.com/1200/0/b8295e26fb_apple-iphone-15-pro.png",
+      "category": "Électronique",
+      "stock": 12,
+      "isNew": true,
+      "discount": 10,
+      "rating": 4.9
+    },
+    {
+      "id": "2",
+      "name": "MacBook Air M3",
+      "description": "Ultra-léger et performant pour le travail et les loisirs.",
+      "price": 1299,
+      "image": "https://www.notebookcheck.biz/fileadmin/Notebooks/Apple/MacBook_Air_13_M3_10C_GPU/IMG_2758.JPG",
+      "category": "Électronique",
+      "stock": 8,
+      "isNew": true,
+      "discount": 0,
+      "rating": 4.8
+    },
+    {
+      "id": "3",
+      "name": "AirPods Pro 2",
+      "description": "Écouteurs sans fil avec réduction de bruit active.",
+      "price": 279,
+      "image": "https://i0.wp.com/kingland.fr/wp-content/uploads/AirPods-Pro-2-Revolution-Audio-et-Sante-Auditive-Integree-1.png",
+      "category": "Électronique",
+      "stock": 0,
+      "isNew": false,
+      "discount": 15,
+      "rating": 4.7
+    },
+    {
+      "id": "5",
+      "name": "Jean Slim Fit",
+      "description": "Jean moderne avec coupe ajustée et finition premium.",
+      "price": 79.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZDwsvBN21U8me9g4-hkroLBbAo0aJBV-UA&s",
+      "category": "Vêtements",
+      "stock": 5,
+      "isNew": false,
+      "discount": 20,
+      "rating": 4.6
+    },
+    {
+      "id": "6",
+      "name": "Casquette Sport",
+      "description": "Casquette respirante idéale pour vos activités sportives.",
+      "price": 24.99,
+      "image": "https://photo.i-run.com/nike-casquette-aw84-m-accessoires-90282-1-fz.jpg",
+      "category": "Vêtements",
+      "stock": 14,
+      "isNew": false,
+      "discount": 0,
+      "rating": 4.2
+    },
+    {
+      "name": "Pc Gamer",
+      "price": 2000.99,
+      "category": "Informatique",
+      "description": "Pc Gamer 7 coeurs, 64 Go RAM, GPU Nvidia 5090 Ti",
+      "stock": 14,
+      "image": "https://www.pcspecialist.fr/images/landing/pcs/gaming-pc/gaming_pc_headline_pcs.jpg",
+      "id": "e5fc"
+    }
+  ]
+}
